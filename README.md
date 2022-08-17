@@ -8,12 +8,12 @@ I'm a frontend developer who currently interns at AltSchool Africa . I'm passion
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning Htmll,css, JavaScript, Reactjs, and Python.
+- 🌱 I’m currently learning Html,css, JavaScript, Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can view my resume  (https://docs.google.com/document/d/181zY-WLmg6ikrXfWjiVtQ0_gblwwfjjL/edit?usp=sharing&ouid=100953572785395444769&rtpof=true&sd=true) and contact me by emailing favourkcb@gmail.com.
 
 ---
 
-| <img align="center" src="https://avatars.githubusercontent.com/u/45835081?s=400&u=daba7065d5d52c6ce8521b0e3f1c19245e218910&v=4" alt="favour's GitHub stats" /> | <img align="center" src="https://avatars.githubusercontent.com/u/45835081?s=400&u=daba7065d5d52c6ce8521b0e3f1c19245e218910&v=4" alt="Favour's GitHub stats" /> |
+| <img align="center" src="https://avatars.githubusercontent.com/u/45835081?s=400&u=daba7065d5d52c6ce8521b0e3f1c19245e218910&v=4" alt="favour's GitHub stats" /> ||
 | ------------- | ------------- |
