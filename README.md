@@ -11,7 +11,7 @@ I'm a frontend developer who currently interns at AltSchool Africa . I'm passion
 - 🌱 I’m currently learning Html,css, JavaScript, Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can view my resume  (https://docs.google.com/document/d/181zY-WLmg6ikrXfWjiVtQ0_gblwwfjjL/edit?usp=sharing&ouid=100953572785395444769&rtpof=true&sd=true) and contact me by emailing favourkcb@gmail.com.
+- 📫 You can contact me by emailing favourkcb@gmail.com.
 
 ---
 
